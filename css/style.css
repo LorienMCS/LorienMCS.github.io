@@ -46,14 +46,14 @@ li {
 .intro {
 	padding-bottom: 10px;
 	text-align: center;
-	color: #00BDA9;
+	background-color: #00BDA9;
 }
 
 .row {
 	padding-bottom: 10px;
 }
 
-img {
+.photo {
 	-webkit-box-shadow: 9px 7px 22px -7px rgba(147,153,150,0.62);
 	-moz-box-shadow: 9px 7px 22px -7px rgba(147,153,150,0.62);
 	box-shadow: 9px 7px 22px -7px rgba(147,153,150,0.62);
