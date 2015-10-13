@@ -11,11 +11,12 @@ very dark green: #04110F
 body {
 		padding-top: 60px;
 		font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
+    background: ;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', Georgia, serif;
-    text-shadow: .5px .5px .5px #04110F;
+    text-shadow: .5px .5px .5px #aaa;
 }
 
 p, ul {
@@ -23,13 +24,13 @@ p, ul {
 }
 
 .logo, h1, h2, h3, h4 {
-	color: #002723;
+	color: #096E66;
 }
 
 .logo {
   font-family: 'Abril Fatface', Georgia, serif;
   font-size: 2em;
-  text-shadow: 1.8px 1.8px 1.8px #04110F;
+  text-shadow: 1.8px 1.8px 1.8px #aaa;
   text-decoration: none !important;
 }
 
