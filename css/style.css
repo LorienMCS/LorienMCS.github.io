@@ -16,7 +16,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', Georgia, serif;
-    text-shadow: .5px .5px .5px #aaa;
+    text-shadow: .5px .5px .5px #04110F;
 }
 
 p, ul {
@@ -30,7 +30,7 @@ p, ul {
 .logo {
   font-family: 'Abril Fatface', Georgia, serif;
   font-size: 2em;
-  text-shadow: 1.8px 1.8px 1.8px #aaa;
+  text-shadow: 1.8px 1.8px 1.8px #04110F;
   text-decoration: none !important;
 }
 
