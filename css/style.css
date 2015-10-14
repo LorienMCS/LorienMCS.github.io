@@ -1,7 +1,8 @@
+/* Background pattern from subtlepatterns.com */
+
 body {
 		padding-top: 60px;
 		font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
-		/* Background pattern from subtlepatterns.com */
     background: url('../grid.png') no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -40,6 +41,7 @@ li {
 
 .intro {
 	padding-bottom: 10px;
+	text-align: center;
 }
 
 .row {
