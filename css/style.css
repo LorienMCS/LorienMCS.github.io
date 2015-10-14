@@ -1,7 +1,7 @@
 /* Background pattern from subtlepatterns.com */
 
 body {
-		padding-top: 80px;
+		padding-top: 100px;
 		font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
     background: url('../images/solid.png') no-repeat center center fixed;
     -webkit-background-size: cover;
@@ -17,7 +17,7 @@ h2, h3, h4, h5, h6 {
 
 h1 {
 	font-family: 'Abril Fatface', Georgia, serif;
-	font-size: 2em;
+	font-size: 3em;
 	text-shadow: .5px .5px .5px #aaa;
 }
 
@@ -46,7 +46,7 @@ li {
 }
 
 .intro-center {
-	margin-bottom: 30px;
+	margin-bottom: 40px;
 	text-align: center;
 }
 
