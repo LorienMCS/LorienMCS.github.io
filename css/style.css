@@ -1,12 +1,17 @@
 body {
 		padding-top: 60px;
 		font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
-    background: ;
+		/* Background pattern from subtlepatterns.com */
+    background: url('../grid.png') no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', Georgia, serif;
-    text-shadow: .5px .5px .5px #04110F;
+    text-shadow: .5px .5px .5px #aaa;
 }
 
 p, ul {
@@ -36,7 +41,6 @@ li {
 .intro {
 	padding-bottom: 10px;
 	text-align: center;
-	background-color: #B7FFE4;
 }
 
 .row {
