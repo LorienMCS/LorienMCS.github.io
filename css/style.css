@@ -10,9 +10,15 @@ body {
     background-size: cover;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', Georgia, serif;
     text-shadow: .5px .5px .5px #aaa;
+}
+
+h1 {
+	font-family: 'Abril Fatface', Georgia, serif;
+	font-size: 2em;
+	text-shadow: .5px .5px .5px #aaa;
 }
 
 p, ul {
@@ -40,7 +46,7 @@ li {
 }
 
 .intro-center {
-	padding-bottom: 10px;
+	margin-bottom: 30px;
 	text-align: center;
 }
 
