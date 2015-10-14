@@ -10,7 +10,7 @@ body {
     background-size: cover;
 }
 
-h2, h3, h4, h5, h6 {
+h1, h2, h3, h4, h5, h6 {
     font-family: 'Playfair Display', Georgia, serif;
     text-shadow: .5px .5px .5px #aaa;
 }
@@ -23,7 +23,7 @@ p, ul {
 	color: #096E66;
 }
 
-.logo, h1 {
+.logo {
   font-family: 'Abril Fatface', Georgia, serif;
   font-size: 1.9em;
   text-shadow: 1px 1px 1px #04110F;
