@@ -3,7 +3,7 @@
 body {
 		padding-top: 100px;
 		font-family: 'Droid Sans', Helvetica, Arial, sans-serif;
-    background: url('../images/solid.png') no-repeat center center fixed;
+    background: #FFB591;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
